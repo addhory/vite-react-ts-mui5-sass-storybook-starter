@@ -24,7 +24,7 @@
 2. Using `create-react-app`
 
    ```bash
-   npx create-react-app -e https://github.com/RidhoAnshory/nextjs-ts-mui5-scss-storybook-starter your-project-name
+   npx create-react-app -e https://github.com/RidhoAnshory/vite-react-ts-mui5-sass-storybook-starter your-project-name
    ```
 
 ### Run the repository
